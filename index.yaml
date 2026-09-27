@@ -3,12 +3,12 @@ entries:
   netzerx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-09-27T09:38:20.268014981+03:00"
+    created: "2026-09-27T11:54:52.102095166+03:00"
     description: A Helm chart for Kubernetes
     digest: e3d90dd81ef50475f5d568fb414c6478addf7558b80a3580ebf7ed6aa60c4694
     name: netzerx
     type: application
     urls:
-    - https://github.com/Netzer-yech/helm-charts/netzerx-0.1.0.tgz
+    - https://Netzer-yech.github.io/helm-charts/netzerx-0.1.0.tgz
     version: 0.1.0
-generated: "2026-09-27T09:38:20.263649351+03:00"
+generated: "2026-09-27T11:54:52.100384802+03:00"
