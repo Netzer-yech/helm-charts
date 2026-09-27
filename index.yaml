@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-09-27T19:39:15.278807064+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 486e4144a2027ead0a4eda1921a1509b184c55003a5bb6882f89e428bcc56c23
+    name: mychart
+    type: application
+    urls:
+    - https://Netzer-yech.github.io/helm-charts/mychart-0.1.0.tgz
+    version: 0.1.0
   netzerx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-09-27T11:54:52.102095166+03:00"
+    created: "2026-09-27T19:39:15.280075903+03:00"
     description: A Helm chart for Kubernetes
     digest: e3d90dd81ef50475f5d568fb414c6478addf7558b80a3580ebf7ed6aa60c4694
     name: netzerx
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://Netzer-yech.github.io/helm-charts/netzerx-0.1.0.tgz
     version: 0.1.0
-generated: "2026-09-27T11:54:52.100384802+03:00"
+generated: "2026-09-27T19:39:15.275337131+03:00"
